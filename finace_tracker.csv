@@ -1,0 +1,18 @@
+date,amount,category,description
+20-5-2025,400,income,salary
+29-06-2025,300.0,income,gym 
+30-06-2025,300.0,expense,gym
+30-06-2025,400.0,expense,gym 
+01-07-2025,500.0,income,side hustle
+02-07-2025,200.0,expense,groceries
+30-06-2025,900.0,income,food
+01-07-2025,1000.0,income,freelance project
+02-07-2025,200.0,expense,groceries
+03-07-2025,50.0,expense,coffee
+04-07-2025,1200.0,income,salary
+05-07-2025,150.0,expense,transportation
+06-07-2025,300.0,income,side hustle
+07-07-2025,500.0,expense,rent
+08-07-2025,80.0,expense,cinema
+09-07-2025,100.0,income,bonus
+10-07-2025,60.0,expense,utilities
